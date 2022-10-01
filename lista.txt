@@ -1,0 +1,6 @@
+Kandisz_Nora	kn@mail.com	11111	780009	2010.01.12.	5
+Remek_Elek	re@mail.com	12345	522000	2015.11.11.	2
+Pop_Simon	ps@mail.com	98765	900000	2012.03.09.	3
+Patta_Nora	pn@mail.com	98444	910000	2019.08.31.	4
+Para_Zita	pz@mail.com	99999	999999	2021.10.31.	10
+FAFAFFA	sdfsdf@dfgd.dfg	595959595	454545	2020.10.10.	5
